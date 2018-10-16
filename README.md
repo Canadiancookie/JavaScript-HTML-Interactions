@@ -1,2 +1,2 @@
-# JavaScript-HTML-Interactions
+# JavaScriptHTMLInteractions
 Demo of HTML Form Data and JavaScript interactions
